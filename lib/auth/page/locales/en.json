@@ -20,5 +20,6 @@
   "Your session has expired",
   "SESSION_EXPIRED_MESSAGE":
   "You need to sign in again.",
-  "LOGIN_FAILED": "Login Failed"
+  "LOGIN_FAILED": "Login Failed",
+  "BRAND_NAME": "Super BPM"
 }
